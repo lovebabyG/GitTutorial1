@@ -7,3 +7,6 @@ change by master
 changed again
 
 changed by local
+
+changed by clone1
+
