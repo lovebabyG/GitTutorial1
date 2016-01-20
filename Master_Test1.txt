@@ -13,4 +13,6 @@ changed by clone1
 changed by local again
 
 changed 1
+change2 by clone1
+add somethins
 
