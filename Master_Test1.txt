@@ -5,3 +5,5 @@ change3
 change by master
 
 changed again
+
+changed by local
